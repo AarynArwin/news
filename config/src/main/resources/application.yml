@@ -12,7 +12,7 @@ spring:
           uri: https://github.com/AarynArwin/newsRepository.git #配置git仓库地址
           searchPaths: repo #配置仓库路径
           username: AarynArwin #访问git仓库的用户名
-          password: superman713. #访问git仓库的用户密码
+          password: ********** #访问git仓库的用户密码
       label: master #配置仓库的分支
 eureka:
   instance:
